@@ -121,6 +121,7 @@ public class CoolWeatherDB {
             db.insert("County", null, values);
         }
     }
+
     /**
      * 从数据库读取某城市下所有的县信息。
      */
